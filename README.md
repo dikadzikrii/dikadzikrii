@@ -1,8 +1,6 @@
 ## 📊 My Github Statistics
 
-<a href="https://github.com/dikadzikrii">
-  <img src="https://github-readme-stats.vercel.app/api?username=dikadzikrii&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true" />
-</a>
+<a href="https://github.com/dikadzikrii"> <img alt="dikadzikrii's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dikadzikrii&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> </a>
 
 <a href="https://github.com/dikadzikrii">
 <img alt="dikadzikrii's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dikadzikrii&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
