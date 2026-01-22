@@ -1,8 +1,7 @@
 ## 📊 My Github Statistics
 
 <a href="https://github.com/dikadzikrii">
-  <img alt="dikadzikrii's streak" 
-       src="https://streak-stats.demolab.com/?user=dikadzikrii&theme=react&hide_border=true&background=0D1117"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dikadzikrii&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true" />
 </a>
 
 <a href="https://github.com/dikadzikrii">
