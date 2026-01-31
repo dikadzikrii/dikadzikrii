@@ -1,4 +1,4 @@
-### Dika Dzikri Pratama
+### Dika Dzikri Pratama-@dikadzikrii
 
 
 ## 📊 My Github Statistics
@@ -16,14 +16,11 @@
 <img alt="dikadzikrii's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikadzikrii&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 
+<!--
 #### **follow me**
-
 <p align = "center">
-
 [<img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=black" />](https://www.facebook.com/DIKA.DZIKRI.P)
-
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/dikadzikrii)
-
-</p>
+</p> -->
 
 
