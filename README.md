@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="n7619k5dH5xFMevowID9TCHo_RInanSqp7w98axpl9Y" />
+
 ## 📊 My Github Statistics
 
 <a href="https://github.com/dikadzikrii"> <img alt="dikadzikrii's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dikadzikrii&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> </a>
